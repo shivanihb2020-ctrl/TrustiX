@@ -30,9 +30,9 @@ Audio + visual alarm
 IoT cloud integration
 
 🖼️ Project Images
-![Circuit Diagram](circuit.jpg)
-![Prototype Setup](prototype.jpg)
-![Blynk Alert](alert.jpg)
+![Circuit Diagram](circuit.jpeg)
+![Prototype Setup](prototype.jpeg)
+![Blynk and Code](code.jpeg)
 
  ⚙️ Working Explanation
 1. System continuously monitors vibration sensor and limit switch  
